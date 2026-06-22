@@ -50,6 +50,11 @@
       "scheme": "url"
     },
     {
+    "identifier": "https://www.slideshare.net/slideshow/speedcheck-fyi-real-time-network-diagnostics-and-ip-intelligence-platform/288191358",
+    "relation": "isSupplementTo",
+    "scheme": "url"
+    },
+    {
       "identifier": "https://zenodo.org/records/20797019",
       "relation": "isIdenticalTo",
        "scheme": "url"
