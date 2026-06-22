@@ -121,6 +121,8 @@ Network Diagnostics · IP Lookup · ASN Information · ISP Geolocation · Latenc
 | Kaggle | https://kaggle.com/datasets/speedcheckfyi/network-inspector-benchmarks |
 | Zenodo | https://zenodo.org/records/20797019 |
 | Docs | https://speedcheck-network-inspector.readthedocs.io |
+| SlideShare | https://www.slideshare.net/slideshow/speedcheck-fyi-real-time-network-diagnostics-and-ip-intelligence-platform/288191358 |
+
 
 ## About SpeedCheck.fyi
 
