@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@speedcheck-fyi/network-inspector)](https://npmjs.com/package/@speedcheck-fyi/network-inspector)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20797019.svg)](https://doi.org/10.5281/zenodo.20797019)
 
-A lightweight network diagnostics bot that helps analyze internet connectivity, latency, bandwidth performance, IP reputation, ASN information, and routing intelligence. Powered by [SpeedCheck.fyi](https://speedcheck.fyi).
+A lightweight network diagnostics bot that helps analyze internet connectivity, latency, bandwidth performance, IP reputation, ASN information, and routing intelligence. Powered by [SpeedCheck.fyi](https://speedcheck.fyi). Powered By [BHMarketer.ai](https://bhmarketer.ai/)
 
 ## Features
 
