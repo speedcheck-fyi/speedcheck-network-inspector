@@ -1,0 +1,21 @@
+id,target_ip,latency_score,bandwidth_score,ip_reputation_score,asn_trust_score,routing_quality_score,connection_stability_score,overall_network_health,priority_signal,isp,asn,geolocation,connection_type,notes
+1,192.0.2.1,85,70,90,65,80,75,78,ASN Trust,Example Networks Inc,AS64512,United States,Fiber,Good overall health
+2,198.51.100.5,60,55,70,80,65,58,65,Connection Stability,Acme Telecom,AS65001,Germany,Cable,Moderate jitter detected
+3,203.0.113.10,90,85,95,88,92,87,90,Bandwidth,Global Fiber Co,AS64600,Japan,Fiber,Excellent across the board
+4,10.0.0.50,45,40,55,50,48,42,47,Connection Stability,Local ISP Ltd,AS65100,India,DSL,At risk performance
+5,172.16.5.20,75,68,82,70,74,72,74,Bandwidth,CloudNet Services,AS64700,United Kingdom,Fiber,Healthy steady state
+6,192.168.10.30,30,25,40,35,32,28,32,Bandwidth,Budget ISP,AS65200,Brazil,DSL,Critical performance issues
+7,8.8.8.8,95,90,98,92,94,91,93,Connection Stability,Google LLC,AS15169,United States,Fiber,Reference excellent node
+8,1.1.1.1,93,88,97,90,93,89,92,Connection Stability,Cloudflare Inc,AS13335,United States,Fiber,Premium DNS provider
+9,203.0.113.45,55,50,65,60,58,52,57,Connection Stability,Regional Telecom,AS65300,South Africa,Cable,At risk routing
+10,198.51.100.88,80,75,85,78,82,76,79,Connection Stability,Metro Fiber,AS64800,Canada,Fiber,Healthy connection
+11,172.20.30.40,65,60,72,68,64,62,65,Connection Stability,SatNet Provider,AS65400,Australia,Satellite,Moderate latency expected
+12,10.10.10.10,88,82,92,85,87,83,86,Connection Stability,Enterprise Net,AS64900,Singapore,Fiber,Strong enterprise connection
+13,192.0.2.99,40,35,48,42,38,36,40,Connection Stability,Legacy ISP,AS65500,Mexico,DSL,Critical legacy infrastructure
+14,203.0.113.200,70,65,78,72,69,66,70,Connection Stability,Urban Broadband,AS65000,France,Cable,Healthy urban connection
+15,198.51.100.150,58,52,68,55,57,50,57,Connection Stability,Rural Connect,AS65600,Kenya,Wireless,At risk rural network
+16,172.16.100.5,82,78,88,80,81,77,81,Connection Stability,Business Fiber,AS65700,South Korea,Fiber,Excellent business grade
+17,10.20.30.40,48,42,52,45,46,40,46,Connection Stability,Discount ISP,AS65800,Philippines,DSL,At risk discount tier
+18,192.168.50.60,72,68,76,70,71,67,71,Connection Stability,Suburban Net,AS65900,Italy,Cable,Healthy suburban service
+19,203.0.113.77,90,86,93,89,91,85,89,Connection Stability,Premium Fiber Co,AS66000,Netherlands,Fiber,Near excellent premium tier
+20,198.51.100.220,35,30,42,38,34,30,35,Connection Stability,Edge ISP,AS66100,Nigeria,Wireless,Critical edge network
