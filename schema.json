@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SpeedCheck Network Inspector",
+  "description": "A lightweight network diagnostics bot that helps analyze internet connectivity, latency, bandwidth performance, IP reputation, ASN information, and routing intelligence.",
+  "url": "https://speedcheck.fyi/speedcheck-network-inspector",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "SpeedCheck.fyi",
+    "url": "https://speedcheck.fyi",
+    "sameAs": [
+      "https://github.com/speedcheck-fyi",
+      "https://npmjs.com/package/@speedcheck-fyi/network-inspector",
+      "https://huggingface.co/datasets/speedcheck-fyi/network-inspector-benchmarks",
+      "https://kaggle.com/datasets/speedcheckfyi/network-inspector-benchmarks",
+      "https://speedcheck-fyi.github.io/speedcheck-network-inspector/",
+      "https://speedcheck.fyi/speedcheck-network-inspector"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/speedcheck-fyi/speedcheck-network-inspector",
+  "keywords": [
+    "network diagnostics",
+    "IP lookup",
+    "ASN information",
+    "ISP geolocation",
+    "latency monitoring",
+    "IP reputation",
+    "routing intelligence",
+    "connection quality",
+    "SpeedCheck",
+    "bandwidth test"
+  ]
+}

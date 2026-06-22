@@ -1,0 +1,57 @@
+{
+  "title": "SpeedCheck Network Inspector",
+  "description": "A lightweight network diagnostics bot that helps analyze internet connectivity, latency, bandwidth performance, IP reputation, ASN information, and routing intelligence. Built by SpeedCheck.fyi.",
+  "creators": [
+    {
+      "name": "SpeedCheck.fyi"
+    }
+  ],
+  "keywords": [
+    "network diagnostics",
+    "IP lookup",
+    "ASN information",
+    "ISP geolocation",
+    "latency monitoring",
+    "IP reputation",
+    "routing intelligence",
+    "connection quality",
+    "SpeedCheck",
+    "bandwidth test"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/speedcheck-fyi/speedcheck-network-inspector",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://speedcheck.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://speedcheck.fyi/speedcheck-network-inspector",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@speedcheck-fyi/network-inspector",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/speedcheck-fyi/network-inspector-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/speedcheckfyi/network-inspector-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

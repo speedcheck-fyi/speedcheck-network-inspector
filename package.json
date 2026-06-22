@@ -1,0 +1,37 @@
+{
+  "name": "@speedcheck-fyi/network-inspector",
+  "version": "1.0.0",
+  "description": "Lightweight network diagnostics bot analyzing connectivity, latency, bandwidth, IP reputation, ASN information, and routing intelligence. Powered by SpeedCheck.fyi",
+  "main": "index.js",
+  "bin": {
+    "network-inspector": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "network-diagnostics",
+    "ip-lookup",
+    "asn-information",
+    "isp-geolocation",
+    "latency-monitoring",
+    "ip-reputation",
+    "routing-intelligence",
+    "connection-quality",
+    "speedcheck",
+    "bandwidth-test",
+    "network-inspector",
+    "ping-test"
+  ],
+  "author": "SpeedCheck.fyi",
+  "license": "MIT",
+  "homepage": "https://speedcheck.fyi/speedcheck-network-inspector",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/speedcheck-fyi/speedcheck-network-inspector"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

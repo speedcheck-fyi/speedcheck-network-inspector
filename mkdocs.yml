@@ -1,0 +1,21 @@
+site_name: SpeedCheck Network Inspector
+site_url: https://speedcheck-network-inspector.readthedocs.io
+site_description: Lightweight network diagnostics bot analyzing connectivity, latency, bandwidth, IP reputation, ASN information, and routing intelligence.
+site_author: SpeedCheck.fyi
+
+repo_name: speedcheck-fyi/speedcheck-network-inspector
+repo_url: https://github.com/speedcheck-fyi/speedcheck-network-inspector
+
+theme:
+  name: material
+  palette:
+    primary: cyan
+    accent: blue
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
