@@ -22,7 +22,9 @@
       "https://zenodo.org/records/20797019",      
       "https://kaggle.com/datasets/speedcheckfyi/network-inspector-benchmarks",
       "https://speedcheck-fyi.github.io/speedcheck-network-inspector/",
-      "https://speedcheck.fyi/speedcheck-network-inspector"
+      "https://speedcheck.fyi/speedcheck-network-inspector",
+      "https://www.slideshare.net/slideshow/speedcheck-fyi-real-time-network-diagnostics-and-ip-intelligence-platform/288191358"
+      
     ]
   },
   "programmingLanguage": ["TypeScript", "Python"],
